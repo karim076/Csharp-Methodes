@@ -1,0 +1,30 @@
+C:\Git\OefenProject\OefenProject\bin\Debug\net6.0\OefenProject.exe
+C:\Git\OefenProject\OefenProject\bin\Debug\net6.0\OefenProject.deps.json
+C:\Git\OefenProject\OefenProject\bin\Debug\net6.0\OefenProject.runtimeconfig.json
+C:\Git\OefenProject\OefenProject\bin\Debug\net6.0\OefenProject.dll
+C:\Git\OefenProject\OefenProject\bin\Debug\net6.0\OefenProject.pdb
+C:\Git\OefenProject\OefenProject\obj\Debug\net6.0\OefenProject.csproj.AssemblyReference.cache
+C:\Git\OefenProject\OefenProject\obj\Debug\net6.0\OefenProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\OefenProject\OefenProject\obj\Debug\net6.0\OefenProject.AssemblyInfoInputs.cache
+C:\Git\OefenProject\OefenProject\obj\Debug\net6.0\OefenProject.AssemblyInfo.cs
+C:\Git\OefenProject\OefenProject\obj\Debug\net6.0\OefenProject.csproj.CoreCompileInputs.cache
+C:\Git\OefenProject\OefenProject\obj\Debug\net6.0\OefenProject.dll
+C:\Git\OefenProject\OefenProject\obj\Debug\net6.0\refint\OefenProject.dll
+C:\Git\OefenProject\OefenProject\obj\Debug\net6.0\OefenProject.pdb
+C:\Git\OefenProject\OefenProject\obj\Debug\net6.0\OefenProject.genruntimeconfig.cache
+C:\Git\OefenProject\OefenProject\obj\Debug\net6.0\ref\OefenProject.dll
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 2\Blok_C\Native\OefenProject\obj\Debug\net6.0\OefenProject.csproj.AssemblyReference.cache
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 2\Blok_C\Native\OefenProject\obj\Debug\net6.0\OefenProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 2\Blok_C\Native\OefenProject\obj\Debug\net6.0\OefenProject.AssemblyInfoInputs.cache
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 2\Blok_C\Native\OefenProject\obj\Debug\net6.0\OefenProject.AssemblyInfo.cs
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 2\Blok_C\Native\OefenProject\obj\Debug\net6.0\OefenProject.csproj.CoreCompileInputs.cache
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 2\Blok_C\Native\OefenProject\obj\Debug\net6.0\OefenProject.dll
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 2\Blok_C\Native\OefenProject\obj\Debug\net6.0\refint\OefenProject.dll
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 2\Blok_C\Native\OefenProject\obj\Debug\net6.0\OefenProject.pdb
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 2\Blok_C\Native\OefenProject\bin\Debug\net6.0\OefenProject.exe
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 2\Blok_C\Native\OefenProject\bin\Debug\net6.0\OefenProject.deps.json
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 2\Blok_C\Native\OefenProject\bin\Debug\net6.0\OefenProject.runtimeconfig.json
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 2\Blok_C\Native\OefenProject\bin\Debug\net6.0\OefenProject.dll
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 2\Blok_C\Native\OefenProject\bin\Debug\net6.0\OefenProject.pdb
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 2\Blok_C\Native\OefenProject\obj\Debug\net6.0\OefenProject.genruntimeconfig.cache
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 2\Blok_C\Native\OefenProject\obj\Debug\net6.0\ref\OefenProject.dll
