@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Karim Alkichouhi\\Documents\\School\\Leerjaar 2\\Blok_C\\Native\\OefenProject\\OefenProject.csproj",
+      "projectUniqueName": "C:\\Users\\Karim Alkichouhi\\Documents\\School\\Leerjaar 2\\Blok_C\\Native\\OefenProject\\Csharp-Methodes\\OefenProject.csproj",
       "projectName": "OefenProject",
-      "projectPath": "C:\\Users\\Karim Alkichouhi\\Documents\\School\\Leerjaar 2\\Blok_C\\Native\\OefenProject\\OefenProject.csproj",
+      "projectPath": "C:\\Users\\Karim Alkichouhi\\Documents\\School\\Leerjaar 2\\Blok_C\\Native\\OefenProject\\Csharp-Methodes\\OefenProject.csproj",
       "packagesPath": "C:\\Users\\Karim Alkichouhi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Karim Alkichouhi\\Documents\\School\\Leerjaar 2\\Blok_C\\Native\\OefenProject\\obj\\",
+      "outputPath": "C:\\Users\\Karim Alkichouhi\\Documents\\School\\Leerjaar 2\\Blok_C\\Native\\OefenProject\\Csharp-Methodes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -56,7 +56,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -65,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -20,44 +20,30 @@ namespace OefenProject
             this.speed = 3f;
             this.angle = 90;
             this.color = ConsoleColor.White;// iedere bal begint met de kleur wit
-
-            ////if (this.speed > 10f && this.speed < 100f)
-            ////{
-            ////    this.color = ConsoleColor.Red;
-            ////}
-            ////else if (this.speed < 10f)
-            ////{
-            ////    this.color = ConsoleColor.White;
-            ////}
-            ////else if (speed > 100f)
-            ////{
-            ////    this.color = ConsoleColor.White;
-            ////}
-
-
         }
 
         // setters
-        public void GetColorWhite()
+
+        public void UpdateColor()
         {
-            if (this.speed < 10f)
+            if (this.speed <= 10f)
             {
                 this.color = ConsoleColor.White;
             }
-        }
-        public void GetColorRed()
-        {
-            if (this.speed > 10f && this.speed < 100f)
+            else if (this.speed > 10f && this.speed < 100f)
             {
                 this.color = ConsoleColor.Red;
             }
-        }
-        public void GetColorBlue()
-        {
-            if (speed > 100f)
+            else
             {
                 this.color = ConsoleColor.White;
             }
+
+        }
+
+        public ConsoleColor GetColorBlue()
+        {
+            return this.color;
         }
         // Decreases speed 
         public void DecreaseSpeed(float speed)
@@ -68,11 +54,13 @@ namespace OefenProject
             {
                 this.speed = newSpeed;
             }
+            UpdateColor();
         }
         // reset speed
         public void ResetSpeed()
         {
             this.speed = 0f;
+            UpdateColor();
         }
         public void IncreaseAngle(int angle)
         {
@@ -86,14 +74,21 @@ namespace OefenProject
             if (newAngle > 0f)
             {
                 this.angle = newAngle;
+                this.angle = this.angle % 360;
+                // TO DO: Angle has to be between 0 and 360 graden
             }
         }
-
+        // Hit spiegeld het bal
+        public void Hit()
+        {
+            this.angle = (180 - this.angle) % 360;
+        }
 
         // Increases angle
         public void IncreaseSpeed(float speed)
         {
             this.speed += speed;
+            UpdateColor();
         }
         // getters
         public float GetBalSpeed()
